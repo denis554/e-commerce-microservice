@@ -1,6 +1,6 @@
 # A microservice e-commerce application demo
 
-There is a version of this app with Consul as registry instead of JHipster Registry in the [consul branch](https://github.com/denis554/e-commerce-microservice/tree/consul).
+There is a version of this app with Consul as registry instead of JHipster Registry
 
 The stack is based on JHipster microservice architecture. Below are the components.
 
